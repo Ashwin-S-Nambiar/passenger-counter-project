@@ -13,3 +13,9 @@ function save() {
     countEl.textContent = 0
     count = 0
 }
+
+function load() {
+    saveEl.textContent = "Previous entries: "
+    count = 0
+    countEl.textContent = 0
+}
