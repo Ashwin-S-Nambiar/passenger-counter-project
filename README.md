@@ -1,5 +1,7 @@
 # 🚶‍♂️ Passenger Counter
 
+Live: https://bespoke-pasca-3aabcc.netlify.app/
+
 ***A simple web app used as a counter for passengers in Trains.
 It also shows the previous entries that have been entered in a seperate line so easier for people to calculate passengers in different trains.
 Increemnt button to add according to passenger.
@@ -13,8 +15,8 @@ Reset button to reset and clear everything.***
 
 ## 📷 Screenshots:
 
-![image](https://github.com/Ashwin-S-Nambiar/passenger-counter-js-project/assets/76719333/c11aad40-de98-44db-96a0-85697ee19e7f)
+![bespoke-pasca-3aabcc netlify app_](https://github.com/user-attachments/assets/fa5d4e0c-dc47-4dff-89cb-646c1ae08bb3)
 
-![image](https://github.com/Ashwin-S-Nambiar/passenger-counter-js-project/assets/76719333/8cc9f82d-2264-4de0-835f-ff49bf3b28d5)
+![bespoke-pasca-3aabcc netlify app_ (1)](https://github.com/user-attachments/assets/4f8399a5-a73e-4276-8387-079210ba48ca)
 
 
