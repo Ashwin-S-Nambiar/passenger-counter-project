@@ -1,6 +1,6 @@
 # 🚶‍♂️ Passenger Counter
 
-Live: https://bespoke-pasca-3aabcc.netlify.app/
+**Live: https://bespoke-pasca-3aabcc.netlify.app/**
 
 ***A simple web app used as a counter for passengers in Trains.
 It also shows the previous entries that have been entered in a seperate line so easier for people to calculate passengers in different trains.
